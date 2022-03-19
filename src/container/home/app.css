@@ -1,0 +1,14 @@
+h2 {
+	background-color: #002b82;
+	color: white;
+	text-align: center;
+}
+
+.heading {
+	margin-top: 1.5rem;
+}
+
+Form {
+	display: flex;
+	justify-content: center;
+}
